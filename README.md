@@ -1,7 +1,7 @@
 # 🧠 Emotion & Sentiment Analysis using Python
 This project performs basic Natural Language Processing (NLP) to analyze emotions and sentiment from a text file. It utilizes the nltk library to tokenize, clean, and filter words, maps them to emotions using a custom emotion lexicon, and uses VADER sentiment analysis to determine the overall polarity. The results are visualized in a bar chart.
 
-#🚀 How It Works
+🚀 How It Works
 Step-by-Step Breakdown
 - Read and preprocess the input:
 - Converts text to lowercase.
